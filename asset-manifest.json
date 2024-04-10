@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newmtx/static/css/main.ae7160ff.css",
+    "main.js": "/newmtx/static/js/main.19593104.js",
+    "index.html": "/newmtx/index.html",
+    "main.ae7160ff.css.map": "/newmtx/static/css/main.ae7160ff.css.map",
+    "main.19593104.js.map": "/newmtx/static/js/main.19593104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae7160ff.css",
+    "static/js/main.19593104.js"
+  ]
+}
