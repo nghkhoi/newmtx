@@ -1,5 +1,5 @@
 //Basic asset-caching
-var CACHE='newmtx-cache';
+var CACHE='mintxt-cache';
 
 this.addEventListener('install', function(e) {
   e.waitUntil(

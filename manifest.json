@@ -1,7 +1,7 @@
 {
-  "name": "newmtx",
-  "short_name": "newmtx",
-  "description": "Upgraded Minimalist Text Editor",
+  "name": "Mintxt",
+  "short_name": "Mintxt",
+  "description": "A Minimalist Text Editor",
   "icons": [
     {
       "src": "favicon.ico",
@@ -22,5 +22,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#000000"
+  "background_color": "#ffffff"
 }
